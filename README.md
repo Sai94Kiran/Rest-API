@@ -15,7 +15,7 @@ Node.js (includes npm)
 Postman (for testing API endpoints)
 
 =>Clone the Repository
-git clone https://github.com/your-username/Rest-API.git
+git clone https://github.com/Sai94Kiran/Rest-API.git
 
 =>Navigate to project directory
 cd Rest-API
