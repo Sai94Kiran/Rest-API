@@ -1,5 +1,5 @@
 REST API
-Overview
+
 This project is a simple REST API built with Node.js and Express. It demonstrates CRUD (Create, Read, Update, Delete) operations using an in-memory data store.
 
 Features
